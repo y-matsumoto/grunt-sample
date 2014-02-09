@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": "",
+  "keywords": [
+    "test"
+  ],
+  "author": "matsumoto",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-cli": "~0.1.13"
+  }
+}
